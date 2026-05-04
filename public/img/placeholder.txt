@@ -1,0 +1,9 @@
+This is a placeholder file. You should replace the hero-phone.png with an actual image of a mobile phone showing the WhatsApp finance app conversation interface.
+
+The ideal image would show:
+- A smartphone mockup with WhatsApp open
+- A conversation with the FinançasApp assistant
+- Examples of financial tracking, reports, or goal setting through the conversation
+- Clean, professional design with the WhatsApp green color scheme
+
+Image size recommendation: 600px x 1200px 
