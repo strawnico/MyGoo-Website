@@ -137,7 +137,7 @@ export default function Home() {
             </ul>
 
             <a
-              href="https://api.whatsapp.com/send/?phone=5548991687574&text=Olá!+Quero+saber+mais+sobre+a+MinhaGOO"
+              href="https://api.whatsapp.com/send/?phone=554892226993&text=Olá!+Quero+saber+mais+sobre+a+MyGOO"
               className="button"
             >
               Comece Agora
@@ -163,7 +163,7 @@ export default function Home() {
 
               <div className="hero-cta">
                 <a
-                  href="https://api.whatsapp.com/send/?phone=5548991687574&text=Olá!+Quero+começar+a+usar+a+MinhaGOO"
+                  href="https://api.whatsapp.com/send/?phone=554892226993&text=Olá!+Quero+saber+mais+sobre+a+MyGOO"
                   className="button"
                 >
                   Experimente Grátis
@@ -392,7 +392,7 @@ export default function Home() {
 
             <div className="before-after-cta">
               <a
-                href="https://api.whatsapp.com/send/?phone=5548991687574&text=Olá!+Quero+transformar+minha+vida+financeira+com+a+MinhaGOO"
+                href="https://api.whatsapp.com/send/?phone=554892226993&text=Olá!+Quero+saber+mais+sobre+a+MyGOO"
                 className="button"
               >
                 Comece sua Transformação
@@ -566,7 +566,7 @@ export default function Home() {
 
                 <div className="pricing-cta">
                   <a
-                    href="https://api.whatsapp.com/send/?phone=5548991687574&text=Quero+assinar+o+plano+mensal+da+MinhaGOO"
+                    href="https://api.whatsapp.com/send/?phone=554892226993&text=Olá!+Quero+saber+mais+sobre+a+MyGOO"
                     className="button button-outline"
                   >
                     Assinar Agora
@@ -611,7 +611,7 @@ export default function Home() {
 
                 <div className="pricing-cta">
                   <a
-                    href="https://api.whatsapp.com/send/?phone=5548991687574&text=Quero+assinar+o+plano+anual+da+MinhaGOO"
+                    href="https://api.whatsapp.com/send/?phone=554892226993&text=Olá!+Quero+saber+mais+sobre+a+MyGOO"
                     className="button"
                   >
                     Assinar Agora
@@ -632,7 +632,7 @@ export default function Home() {
               </p>
 
               <a
-                href="https://api.whatsapp.com/send/?phone=5548991687574&text=Olá!+Quero+experimentar+a+MinhaGOO+gratuitamente"
+                href="https://api.whatsapp.com/send/?phone=554892226993&text=Olá!+Quero+saber+mais+sobre+a+MyGOO"
                 className="button button-lg"
               >
                 Começar Teste Grátis
